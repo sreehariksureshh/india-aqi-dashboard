@@ -21,3 +21,8 @@ across major Indian cities.
 ## 🚀 How to Run
 pip install pandas streamlit matplotlib
 streamlit run app.py
+
+## 📥 Dataset
+Download `city_day.csv` from [Kaggle - India Air Quality Data]
+(https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)
+and place it in the same folder as `app.py`
